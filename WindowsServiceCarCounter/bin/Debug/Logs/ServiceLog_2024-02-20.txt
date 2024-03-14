@@ -1,0 +1,2 @@
+The WindowService service has been started 2024-02-20 10:51:58
+The WindowService CarCounter has been stopped at 2024-02-20 10:54:03

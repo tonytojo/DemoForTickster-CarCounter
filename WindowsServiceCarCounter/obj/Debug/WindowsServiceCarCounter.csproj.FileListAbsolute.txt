@@ -1,0 +1,12 @@
+C:\Users\Tony\Source\Repos\WindowsServiceCarCounter\WindowsServiceCarCounter\bin\Debug\WindowsServiceCarCounter.exe.config
+C:\Users\Tony\Source\Repos\WindowsServiceCarCounter\WindowsServiceCarCounter\bin\Debug\WindowsServiceCarCounter.exe
+C:\Users\Tony\Source\Repos\WindowsServiceCarCounter\WindowsServiceCarCounter\bin\Debug\WindowsServiceCarCounter.pdb
+C:\Users\Tony\Source\Repos\WindowsServiceCarCounter\WindowsServiceCarCounter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tony\Source\Repos\WindowsServiceCarCounter\WindowsServiceCarCounter\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Tony\Source\Repos\WindowsServiceCarCounter\WindowsServiceCarCounter\obj\Debug\WindowsServiceCarCounter.csproj.AssemblyReference.cache
+C:\Users\Tony\Source\Repos\WindowsServiceCarCounter\WindowsServiceCarCounter\obj\Debug\WindowsServiceCarCounter.ProjectInstaller.resources
+C:\Users\Tony\Source\Repos\WindowsServiceCarCounter\WindowsServiceCarCounter\obj\Debug\WindowsServiceCarCounter.csproj.GenerateResource.cache
+C:\Users\Tony\Source\Repos\WindowsServiceCarCounter\WindowsServiceCarCounter\obj\Debug\WindowsServiceCarCounter.csproj.CoreCompileInputs.cache
+C:\Users\Tony\Source\Repos\WindowsServiceCarCounter\WindowsServiceCarCounter\obj\Debug\WindowsServiceCarCounter.csproj.CopyComplete
+C:\Users\Tony\Source\Repos\WindowsServiceCarCounter\WindowsServiceCarCounter\obj\Debug\WindowsServiceCarCounter.exe
+C:\Users\Tony\Source\Repos\WindowsServiceCarCounter\WindowsServiceCarCounter\obj\Debug\WindowsServiceCarCounter.pdb

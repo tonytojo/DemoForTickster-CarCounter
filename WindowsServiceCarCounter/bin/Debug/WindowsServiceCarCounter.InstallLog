@@ -1,0 +1,13 @@
+﻿Installerar sammansättningen C:\Users\Tony\Source\Repos\WindowsServiceCarCounter\WindowsServiceCarCounter\bin\Debug\WindowsServiceCarCounter.exe.
+Berörda parametrar är:
+   logtoconsole = 
+   logfile = C:\Users\Tony\Source\Repos\WindowsServiceCarCounter\WindowsServiceCarCounter\bin\Debug\WindowsServiceCarCounter.InstallLog
+   assemblypath = C:\Users\Tony\Source\Repos\WindowsServiceCarCounter\WindowsServiceCarCounter\bin\Debug\WindowsServiceCarCounter.exe
+Installerar tjänsten CarCounter...
+Tjänsten CarCounter har installerats.
+Skapar EventLog-källan CarCounter i loggen Application...
+Utför sammansättningen C:\Users\Tony\Source\Repos\WindowsServiceCarCounter\WindowsServiceCarCounter\bin\Debug\WindowsServiceCarCounter.exe.
+Berörda parametrar är:
+   logtoconsole = 
+   logfile = C:\Users\Tony\Source\Repos\WindowsServiceCarCounter\WindowsServiceCarCounter\bin\Debug\WindowsServiceCarCounter.InstallLog
+   assemblypath = C:\Users\Tony\Source\Repos\WindowsServiceCarCounter\WindowsServiceCarCounter\bin\Debug\WindowsServiceCarCounter.exe
